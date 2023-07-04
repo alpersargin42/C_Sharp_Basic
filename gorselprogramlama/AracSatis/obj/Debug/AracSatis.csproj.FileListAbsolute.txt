@@ -1,0 +1,10 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AracSatis\bin\Debug\AracSatis.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AracSatis\bin\Debug\AracSatis.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AracSatis\bin\Debug\AracSatis.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AracSatis\obj\Debug\AracSatis.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AracSatis\obj\Debug\AracSatis.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AracSatis\obj\Debug\AracSatis.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AracSatis\obj\Debug\AracSatis.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AracSatis\obj\Debug\AracSatis.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AracSatis\obj\Debug\AracSatis.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AracSatis\obj\Debug\AracSatis.csproj.AssemblyReference.cache

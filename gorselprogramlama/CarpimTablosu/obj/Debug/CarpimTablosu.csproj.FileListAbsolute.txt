@@ -1,0 +1,9 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\CarpimTablosu\bin\Debug\CarpimTablosu.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\CarpimTablosu\bin\Debug\CarpimTablosu.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\CarpimTablosu\bin\Debug\CarpimTablosu.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\CarpimTablosu\obj\Debug\CarpimTablosu.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\CarpimTablosu\obj\Debug\CarpimTablosu.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\CarpimTablosu\obj\Debug\CarpimTablosu.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\CarpimTablosu\obj\Debug\CarpimTablosu.pdb

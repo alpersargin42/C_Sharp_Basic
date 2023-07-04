@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Argümangecisi\bin\Debug\Argümangecisi.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Argümangecisi\bin\Debug\Argümangecisi.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Argümangecisi\bin\Debug\Argümangecisi.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Argümangecisi\obj\Debug\Argümangecisi.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Argümangecisi\obj\Debug\Argümangecisi.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Argümangecisi\obj\Debug\Argümangecisi.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Argümangecisi\obj\Debug\Argümangecisi.pdb

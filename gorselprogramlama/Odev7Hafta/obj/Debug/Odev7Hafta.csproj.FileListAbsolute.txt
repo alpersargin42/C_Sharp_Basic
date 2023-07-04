@@ -1,0 +1,10 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev7Hafta\bin\Debug\Odev7Hafta.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev7Hafta\bin\Debug\Odev7Hafta.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev7Hafta\bin\Debug\Odev7Hafta.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev7Hafta\obj\Debug\Odev7Hafta.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev7Hafta\obj\Debug\Odev7Hafta.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev7Hafta\obj\Debug\Odev7Hafta.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev7Hafta\obj\Debug\Odev7Hafta.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev7Hafta\obj\Debug\Odev7Hafta.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev7Hafta\obj\Debug\Odev7Hafta.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev7Hafta\obj\Debug\Odev7Hafta.pdb

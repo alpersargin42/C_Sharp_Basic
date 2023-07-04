@@ -1,0 +1,9 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ParolaDogruYanlis\bin\Debug\ParolaDogruYanlis.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ParolaDogruYanlis\bin\Debug\ParolaDogruYanlis.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ParolaDogruYanlis\bin\Debug\ParolaDogruYanlis.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ParolaDogruYanlis\obj\Debug\ParolaDogruYanlis.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ParolaDogruYanlis\obj\Debug\ParolaDogruYanlis.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ParolaDogruYanlis\obj\Debug\ParolaDogruYanlis.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ParolaDogruYanlis\obj\Debug\ParolaDogruYanlis.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ParolaDogruYanlis\obj\Debug\ParolaDogruYanlis.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ParolaDogruYanlis\obj\Debug\ParolaDogruYanlis.pdb

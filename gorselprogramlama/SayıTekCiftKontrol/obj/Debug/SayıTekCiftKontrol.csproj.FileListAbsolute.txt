@@ -1,0 +1,10 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SayıTekCiftKontrol\bin\Debug\SayıTekCiftKontrol.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SayıTekCiftKontrol\bin\Debug\SayıTekCiftKontrol.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SayıTekCiftKontrol\bin\Debug\SayıTekCiftKontrol.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SayıTekCiftKontrol\obj\Debug\SayıTekCiftKontrol.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SayıTekCiftKontrol\obj\Debug\SayıTekCiftKontrol.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SayıTekCiftKontrol\obj\Debug\SayıTekCiftKontrol.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SayıTekCiftKontrol\obj\Debug\SayıTekCiftKontrol.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SayıTekCiftKontrol\obj\Debug\SayıTekCiftKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SayıTekCiftKontrol\obj\Debug\SayıTekCiftKontrol.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SayıTekCiftKontrol\obj\Debug\SayıTekCiftKontrol.pdb

@@ -1,0 +1,16 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\obj\Debug\net5.0\DiziGonderCarptir.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\obj\Debug\net5.0\DiziGonderCarptir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\obj\Debug\net5.0\DiziGonderCarptir.AssemblyInfoInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\obj\Debug\net5.0\DiziGonderCarptir.AssemblyInfo.cs
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\obj\Debug\net5.0\DiziGonderCarptir.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\bin\Debug\net5.0\DiziGonderCarptir.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\bin\Debug\net5.0\DiziGonderCarptir.deps.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\bin\Debug\net5.0\DiziGonderCarptir.runtimeconfig.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\bin\Debug\net5.0\DiziGonderCarptir.runtimeconfig.dev.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\bin\Debug\net5.0\DiziGonderCarptir.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\bin\Debug\net5.0\ref\DiziGonderCarptir.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\bin\Debug\net5.0\DiziGonderCarptir.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\obj\Debug\net5.0\DiziGonderCarptir.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\obj\Debug\net5.0\ref\DiziGonderCarptir.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\obj\Debug\net5.0\DiziGonderCarptir.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DiziGonderCarptir\obj\Debug\net5.0\DiziGonderCarptir.genruntimeconfig.cache

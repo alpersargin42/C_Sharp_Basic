@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OdevGibi\bin\Debug\OdevGibi.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OdevGibi\bin\Debug\OdevGibi.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OdevGibi\bin\Debug\OdevGibi.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OdevGibi\obj\Debug\OdevGibi.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OdevGibi\obj\Debug\OdevGibi.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OdevGibi\obj\Debug\OdevGibi.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OdevGibi\obj\Debug\OdevGibi.pdb

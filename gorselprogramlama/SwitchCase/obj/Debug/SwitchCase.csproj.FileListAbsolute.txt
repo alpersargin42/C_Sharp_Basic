@@ -1,0 +1,9 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SwitchCase\obj\Debug\SwitchCase.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SwitchCase\obj\Debug\SwitchCase.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SwitchCase\obj\Debug\SwitchCase.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SwitchCase\obj\Debug\SwitchCase.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final\bin\Debug\WindowsFormsApp_Final.exe.config
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final\bin\Debug\WindowsFormsApp_Final.exe
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final\bin\Debug\WindowsFormsApp_Final.pdb
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final\obj\Debug\WindowsFormsApp_Final.csproj.AssemblyReference.cache
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final\obj\Debug\WindowsFormsApp_Final.Form1.resources
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final\obj\Debug\WindowsFormsApp_Final.Properties.Resources.resources
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final\obj\Debug\WindowsFormsApp_Final.csproj.GenerateResource.cache
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final\obj\Debug\WindowsFormsApp_Final.csproj.CoreCompileInputs.cache
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final\obj\Debug\WindowsFormsApp_Final.exe
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final\obj\Debug\WindowsFormsApp_Final.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturma\bin\Debug\SifreOlusturma.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturma\bin\Debug\SifreOlusturma.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturma\bin\Debug\SifreOlusturma.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturma\obj\Debug\SifreOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturma\obj\Debug\SifreOlusturma.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturma\obj\Debug\SifreOlusturma.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturma\obj\Debug\SifreOlusturma.csproj.AssemblyReference.cache

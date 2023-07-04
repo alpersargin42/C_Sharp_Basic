@@ -1,0 +1,16 @@
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\bin\Debug\WindowsFormsApp_Final5_Update2.exe.config
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\bin\Debug\WindowsFormsApp_Final5_Update2.exe
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\bin\Debug\WindowsFormsApp_Final5_Update2.pdb
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\WindowsFormsApp_Final5_Update2.csproj.ResolveComReference.cache
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\WindowsFormsApp_Final5_Update2.Form1.resources
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\WindowsFormsApp_Final5_Update2.Form2.resources
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\WindowsFormsApp_Final5_Update2.Properties.Resources.resources
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\WindowsFormsApp_Final5_Update2.csproj.GenerateResource.cache
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\WindowsFormsApp_Final5_Update2.csproj.CoreCompileInputs.cache
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\WindowsFormsApp_Final5_Update2.exe
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\WindowsFormsApp_Final5_Update2.pdb
+C:\Users\Alper.SARGIN\Desktop\GORSEL_PROG\WindowsFormsApp_Final\WindowsFormsApp_Final5_Update2\obj\Debug\WindowsFormsApp_Final5_Update2.csproj.AssemblyReference.cache

@@ -1,0 +1,28 @@
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\alper\Desktop\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Alper.SARGIN\Desktop\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.csproj.AssemblyReference.cache
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.Form1.resources
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.UserControl1.resources
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.csproj.GenerateResource.cache
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.csproj.CoreCompileInputs.cache
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\bin\Debug\WindowsFormsControlLibrary5.dll
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\bin\Debug\WindowsFormsControlLibrary5.pdb
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.dll
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.pdb
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\bin\Debug\Interop.WMPLib.dll
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\Interop.WMPLib.dll
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.csproj.ResolveComReference.cache
+C:\Users\akif_\OneDrive\Masaüstü\deneme\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.Properties.Resources.resources
+D:\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\Akif_örn\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.csproj.AssemblyReference.cache
+D:\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\Akif_örn\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\Interop.WMPLib.dll
+D:\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\Akif_örn\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\AxInterop.WMPLib.dll
+D:\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\Akif_örn\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.csproj.ResolveComReference.cache
+D:\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\Akif_örn\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.dll
+D:\DESKTOP\Üniversite\Üçüncü SINIF\Güz Dönemi\Görsel Prog\LAB\Akif_örn\WindowsFormsControlLibrary5\WindowsFormsControlLibrary5\obj\Debug\WindowsFormsControlLibrary5.pdb

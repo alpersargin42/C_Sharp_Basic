@@ -1,0 +1,10 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Fibonachi\bin\Debug\Fibonachi.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Fibonachi\bin\Debug\Fibonachi.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Fibonachi\bin\Debug\Fibonachi.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Fibonachi\obj\Debug\Fibonachi.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Fibonachi\obj\Debug\Fibonachi.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Fibonachi\obj\Debug\Fibonachi.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Fibonachi\obj\Debug\Fibonachi.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Fibonachi\obj\Debug\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Fibonachi\obj\Debug\Fibonachi.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Fibonachi\obj\Debug\Fibonachi.pdb

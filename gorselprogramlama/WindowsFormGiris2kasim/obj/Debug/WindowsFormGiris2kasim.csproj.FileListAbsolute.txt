@@ -1,0 +1,10 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\WindowsFormGiris2kasim\bin\Debug\WindowsFormGiris2kasim.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\WindowsFormGiris2kasim\bin\Debug\WindowsFormGiris2kasim.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\WindowsFormGiris2kasim\bin\Debug\WindowsFormGiris2kasim.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\WindowsFormGiris2kasim\obj\Debug\WindowsFormGiris2kasim.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\WindowsFormGiris2kasim\obj\Debug\WindowsFormGiris2kasim.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\WindowsFormGiris2kasim\obj\Debug\WindowsFormGiris2kasim.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\WindowsFormGiris2kasim\obj\Debug\WindowsFormGiris2kasim.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\WindowsFormGiris2kasim\obj\Debug\WindowsFormGiris2kasim.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\WindowsFormGiris2kasim\obj\Debug\WindowsFormGiris2kasim.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\WindowsFormGiris2kasim\obj\Debug\WindowsFormGiris2kasim.pdb

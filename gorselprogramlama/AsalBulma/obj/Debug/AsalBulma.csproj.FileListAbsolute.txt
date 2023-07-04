@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AsalBulma\bin\Debug\AsalBulma.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AsalBulma\bin\Debug\AsalBulma.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AsalBulma\bin\Debug\AsalBulma.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AsalBulma\obj\Debug\AsalBulma.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AsalBulma\obj\Debug\AsalBulma.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AsalBulma\obj\Debug\AsalBulma.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AsalBulma\obj\Debug\AsalBulma.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AlarmUygulaması\bin\Debug\AlarmUygulaması.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AlarmUygulaması\bin\Debug\AlarmUygulaması.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AlarmUygulaması\bin\Debug\AlarmUygulaması.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AlarmUygulaması\obj\Debug\AlarmUygulaması.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AlarmUygulaması\obj\Debug\AlarmUygulaması.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AlarmUygulaması\obj\Debug\AlarmUygulaması.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AlarmUygulaması\obj\Debug\AlarmUygulaması.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AlarmUygulaması\obj\Debug\AlarmUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AlarmUygulaması\obj\Debug\AlarmUygulaması.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\AlarmUygulaması\obj\Debug\AlarmUygulaması.pdb

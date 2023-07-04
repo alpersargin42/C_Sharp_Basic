@@ -1,0 +1,9 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Islemler\bin\Debug\Islemler.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Islemler\bin\Debug\Islemler.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Islemler\bin\Debug\Islemler.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Islemler\obj\Debug\Islemler.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Islemler\obj\Debug\Islemler.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Islemler\obj\Debug\Islemler.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Islemler\obj\Debug\Islemler.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Islemler\obj\Debug\Islemler.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Islemler\obj\Debug\Islemler.pdb

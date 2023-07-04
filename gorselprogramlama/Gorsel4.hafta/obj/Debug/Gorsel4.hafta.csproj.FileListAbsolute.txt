@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4.hafta\obj\Debug\Gorsel4.hafta.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4.hafta\obj\Debug\Gorsel4.hafta.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4.hafta\bin\Debug\Gorsel4.hafta.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4.hafta\bin\Debug\Gorsel4.hafta.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4.hafta\bin\Debug\Gorsel4.hafta.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4.hafta\obj\Debug\Gorsel4.hafta.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4.hafta\obj\Debug\Gorsel4.hafta.pdb

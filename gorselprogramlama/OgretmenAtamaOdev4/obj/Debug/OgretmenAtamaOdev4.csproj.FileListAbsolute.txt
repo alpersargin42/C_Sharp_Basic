@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OgretmenAtamaOdev4\bin\Debug\OgretmenAtamaOdev4.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OgretmenAtamaOdev4\bin\Debug\OgretmenAtamaOdev4.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OgretmenAtamaOdev4\bin\Debug\OgretmenAtamaOdev4.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OgretmenAtamaOdev4\obj\Debug\OgretmenAtamaOdev4.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OgretmenAtamaOdev4\obj\Debug\OgretmenAtamaOdev4.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OgretmenAtamaOdev4\obj\Debug\OgretmenAtamaOdev4.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\OgretmenAtamaOdev4\obj\Debug\OgretmenAtamaOdev4.csproj.AssemblyReference.cache

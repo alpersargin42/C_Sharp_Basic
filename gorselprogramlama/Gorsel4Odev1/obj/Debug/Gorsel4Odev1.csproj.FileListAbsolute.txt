@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4Odev1\bin\Debug\Gorsel4Odev1.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4Odev1\bin\Debug\Gorsel4Odev1.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4Odev1\bin\Debug\Gorsel4Odev1.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4Odev1\obj\Debug\Gorsel4Odev1.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4Odev1\obj\Debug\Gorsel4Odev1.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4Odev1\obj\Debug\Gorsel4Odev1.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Gorsel4Odev1\obj\Debug\Gorsel4Odev1.pdb

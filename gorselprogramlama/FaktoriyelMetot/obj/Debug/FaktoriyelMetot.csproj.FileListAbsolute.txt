@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\FaktoriyelMetot\bin\Debug\FaktoriyelMetot.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\FaktoriyelMetot\bin\Debug\FaktoriyelMetot.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\FaktoriyelMetot\bin\Debug\FaktoriyelMetot.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\FaktoriyelMetot\obj\Debug\FaktoriyelMetot.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\FaktoriyelMetot\obj\Debug\FaktoriyelMetot.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\FaktoriyelMetot\obj\Debug\FaktoriyelMetot.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\FaktoriyelMetot\obj\Debug\FaktoriyelMetot.pdb

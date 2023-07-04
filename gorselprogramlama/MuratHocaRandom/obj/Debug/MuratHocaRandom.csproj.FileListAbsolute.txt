@@ -1,0 +1,6 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MuratHocaRandom\bin\Debug\MuratHocaRandom.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MuratHocaRandom\bin\Debug\MuratHocaRandom.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MuratHocaRandom\bin\Debug\MuratHocaRandom.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MuratHocaRandom\obj\Debug\MuratHocaRandom.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MuratHocaRandom\obj\Debug\MuratHocaRandom.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MuratHocaRandom\obj\Debug\MuratHocaRandom.pdb

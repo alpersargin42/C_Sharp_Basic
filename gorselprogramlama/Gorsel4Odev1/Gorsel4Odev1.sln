@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorsel4Odev1", "Gorsel4Odev1.csproj", "{294299DB-F331-4BA5-ABE7-F9282C2CD1D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasanAnaliz", "..\HasanAnaliz\HasanAnaliz.csproj", "{67773267-DB7C-43D5-A6F0-3EB290102C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294299DB-F331-4BA5-ABE7-F9282C2CD1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294299DB-F331-4BA5-ABE7-F9282C2CD1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294299DB-F331-4BA5-ABE7-F9282C2CD1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294299DB-F331-4BA5-ABE7-F9282C2CD1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67773267-DB7C-43D5-A6F0-3EB290102C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67773267-DB7C-43D5-A6F0-3EB290102C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67773267-DB7C-43D5-A6F0-3EB290102C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67773267-DB7C-43D5-A6F0-3EB290102C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E227A8F-68EE-4215-AE68-AE69B574DB86}
+	EndGlobalSection
+EndGlobal

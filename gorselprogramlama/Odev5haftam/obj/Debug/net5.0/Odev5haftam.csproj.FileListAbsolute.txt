@@ -1,0 +1,15 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\obj\Debug\net5.0\Odev5haftam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\obj\Debug\net5.0\Odev5haftam.AssemblyInfoInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\obj\Debug\net5.0\Odev5haftam.AssemblyInfo.cs
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\obj\Debug\net5.0\Odev5haftam.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\bin\Debug\net5.0\Odev5haftam.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\bin\Debug\net5.0\Odev5haftam.deps.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\bin\Debug\net5.0\Odev5haftam.runtimeconfig.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\bin\Debug\net5.0\Odev5haftam.runtimeconfig.dev.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\bin\Debug\net5.0\Odev5haftam.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\bin\Debug\net5.0\ref\Odev5haftam.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\bin\Debug\net5.0\Odev5haftam.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\obj\Debug\net5.0\Odev5haftam.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\obj\Debug\net5.0\ref\Odev5haftam.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\obj\Debug\net5.0\Odev5haftam.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Odev5haftam\obj\Debug\net5.0\Odev5haftam.genruntimeconfig.cache

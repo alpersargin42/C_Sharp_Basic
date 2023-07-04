@@ -1,0 +1,16 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\obj\Debug\net5.0\QuestionOOP.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\obj\Debug\net5.0\QuestionOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\obj\Debug\net5.0\QuestionOOP.AssemblyInfoInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\obj\Debug\net5.0\QuestionOOP.AssemblyInfo.cs
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\obj\Debug\net5.0\QuestionOOP.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\bin\Debug\net5.0\QuestionOOP.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\bin\Debug\net5.0\QuestionOOP.deps.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\bin\Debug\net5.0\QuestionOOP.runtimeconfig.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\bin\Debug\net5.0\QuestionOOP.runtimeconfig.dev.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\bin\Debug\net5.0\QuestionOOP.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\bin\Debug\net5.0\ref\QuestionOOP.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\bin\Debug\net5.0\QuestionOOP.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\obj\Debug\net5.0\QuestionOOP.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\obj\Debug\net5.0\ref\QuestionOOP.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\obj\Debug\net5.0\QuestionOOP.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\QuestionOOP\obj\Debug\net5.0\QuestionOOP.genruntimeconfig.cache

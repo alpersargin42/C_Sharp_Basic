@@ -1,0 +1,9 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Selamverme\bin\Debug\Selamverme.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Selamverme\bin\Debug\Selamverme.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Selamverme\bin\Debug\Selamverme.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Selamverme\obj\Debug\Selamverme.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Selamverme\obj\Debug\Selamverme.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Selamverme\obj\Debug\Selamverme.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Selamverme\obj\Debug\Selamverme.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Selamverme\obj\Debug\Selamverme.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Selamverme\obj\Debug\Selamverme.pdb

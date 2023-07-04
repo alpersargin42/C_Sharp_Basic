@@ -1,0 +1,9 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Ortalama_Hesaplama\bin\Debug\Ortalama_Hesaplama.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Ortalama_Hesaplama\bin\Debug\Ortalama_Hesaplama.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Ortalama_Hesaplama\bin\Debug\Ortalama_Hesaplama.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Ortalama_Hesaplama\obj\Debug\Ortalama_Hesaplama.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturmaForm\bin\Debug\SifreOlusturmaForm.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturmaForm\bin\Debug\SifreOlusturmaForm.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturmaForm\bin\Debug\SifreOlusturmaForm.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturmaForm\obj\Debug\SifreOlusturmaForm.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturmaForm\obj\Debug\SifreOlusturmaForm.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturmaForm\obj\Debug\SifreOlusturmaForm.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturmaForm\obj\Debug\SifreOlusturmaForm.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturmaForm\obj\Debug\SifreOlusturmaForm.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturmaForm\obj\Debug\SifreOlusturmaForm.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\SifreOlusturmaForm\obj\Debug\SifreOlusturmaForm.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Faktoriyel\bin\Debug\Faktoriyel.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Faktoriyel\bin\Debug\Faktoriyel.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Faktoriyel\obj\Debug\Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Faktoriyel\obj\Debug\Faktoriyel.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Faktoriyel\obj\Debug\Faktoriyel.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ForEachKullanimi\bin\Debug\ForEachKullanimi.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ForEachKullanimi\bin\Debug\ForEachKullanimi.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ForEachKullanimi\bin\Debug\ForEachKullanimi.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ForEachKullanimi\obj\Debug\ForEachKullanimi.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ForEachKullanimi\obj\Debug\ForEachKullanimi.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ForEachKullanimi\obj\Debug\ForEachKullanimi.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ForEachKullanimi\obj\Debug\ForEachKullanimi.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ForEachKullanimi\obj\Debug\ForEachKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ForEachKullanimi\obj\Debug\ForEachKullanimi.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\ForEachKullanimi\obj\Debug\ForEachKullanimi.pdb

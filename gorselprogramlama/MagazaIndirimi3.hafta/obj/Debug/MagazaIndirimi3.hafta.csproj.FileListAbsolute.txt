@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MagazaIndirimi3.hafta\bin\Debug\MagazaIndirimi3.hafta.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MagazaIndirimi3.hafta\bin\Debug\MagazaIndirimi3.hafta.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MagazaIndirimi3.hafta\bin\Debug\MagazaIndirimi3.hafta.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MagazaIndirimi3.hafta\obj\Debug\MagazaIndirimi3.hafta.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MagazaIndirimi3.hafta\obj\Debug\MagazaIndirimi3.hafta.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MagazaIndirimi3.hafta\obj\Debug\MagazaIndirimi3.hafta.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\MagazaIndirimi3.hafta\obj\Debug\MagazaIndirimi3.hafta.pdb

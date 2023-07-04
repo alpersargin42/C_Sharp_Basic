@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DersteYapilan\bin\Debug\DersteYapilan.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DersteYapilan\bin\Debug\DersteYapilan.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DersteYapilan\bin\Debug\DersteYapilan.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DersteYapilan\obj\Debug\DersteYapilan.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DersteYapilan\obj\Debug\DersteYapilan.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DersteYapilan\obj\Debug\DersteYapilan.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\DersteYapilan\obj\Debug\DersteYapilan.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\GercekMagazaIndirim\obj\Debug\GercekMagazaIndirim.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\GercekMagazaIndirim\obj\Debug\GercekMagazaIndirim.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\GercekMagazaIndirim\bin\Debug\GercekMagazaIndirim.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\GercekMagazaIndirim\bin\Debug\GercekMagazaIndirim.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\GercekMagazaIndirim\bin\Debug\GercekMagazaIndirim.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\GercekMagazaIndirim\obj\Debug\GercekMagazaIndirim.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\GercekMagazaIndirim\obj\Debug\GercekMagazaIndirim.pdb

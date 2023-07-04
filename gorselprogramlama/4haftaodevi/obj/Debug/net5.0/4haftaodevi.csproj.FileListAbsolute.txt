@@ -1,0 +1,16 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\bin\Debug\net5.0\4haftaodevi.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\bin\Debug\net5.0\4haftaodevi.deps.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\bin\Debug\net5.0\4haftaodevi.runtimeconfig.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\bin\Debug\net5.0\4haftaodevi.runtimeconfig.dev.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\bin\Debug\net5.0\4haftaodevi.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\bin\Debug\net5.0\ref\4haftaodevi.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\bin\Debug\net5.0\4haftaodevi.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\obj\Debug\net5.0\4haftaodevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\obj\Debug\net5.0\4haftaodevi.AssemblyInfoInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\obj\Debug\net5.0\4haftaodevi.AssemblyInfo.cs
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\obj\Debug\net5.0\4haftaodevi.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\obj\Debug\net5.0\4haftaodevi.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\obj\Debug\net5.0\ref\4haftaodevi.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\obj\Debug\net5.0\4haftaodevi.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\obj\Debug\net5.0\4haftaodevi.genruntimeconfig.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\4haftaodevi\obj\Debug\net5.0\4haftaodevi.csproj.AssemblyReference.cache

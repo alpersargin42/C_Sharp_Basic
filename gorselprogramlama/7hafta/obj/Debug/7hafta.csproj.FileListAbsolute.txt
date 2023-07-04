@@ -1,0 +1,16 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\bin\Debug\7hafta.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\bin\Debug\7hafta.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\bin\Debug\7hafta.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\7hafta.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\_7hafta.Form1.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\_7hafta.Properties.Resources.resources
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\7hafta.csproj.GenerateResource.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\7hafta.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\7hafta.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\7hafta.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\7hafta.csproj.ResolveComReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\7hafta\obj\Debug\_7hafta.Form2.resources

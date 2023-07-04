@@ -1,0 +1,7 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\Metotlar\obj\Debug\Metotlar.pdb

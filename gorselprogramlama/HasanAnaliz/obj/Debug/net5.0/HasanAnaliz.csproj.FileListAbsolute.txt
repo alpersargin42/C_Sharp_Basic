@@ -1,0 +1,15 @@
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\bin\Debug\net5.0\HasanAnaliz.exe
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\bin\Debug\net5.0\HasanAnaliz.deps.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\bin\Debug\net5.0\HasanAnaliz.runtimeconfig.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\bin\Debug\net5.0\HasanAnaliz.runtimeconfig.dev.json
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\bin\Debug\net5.0\HasanAnaliz.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\bin\Debug\net5.0\ref\HasanAnaliz.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\bin\Debug\net5.0\HasanAnaliz.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\obj\Debug\net5.0\HasanAnaliz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\obj\Debug\net5.0\HasanAnaliz.AssemblyInfoInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\obj\Debug\net5.0\HasanAnaliz.AssemblyInfo.cs
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\obj\Debug\net5.0\HasanAnaliz.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\obj\Debug\net5.0\HasanAnaliz.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\obj\Debug\net5.0\ref\HasanAnaliz.dll
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\obj\Debug\net5.0\HasanAnaliz.pdb
+C:\Users\Dogan\Desktop\3.sınıfuzem\gorselprogramlama\HasanAnaliz\obj\Debug\net5.0\HasanAnaliz.genruntimeconfig.cache
